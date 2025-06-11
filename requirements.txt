@@ -3,3 +3,5 @@ scikit-learn
 matplotlib
 streamlit
 joblib
+# Optional: For advanced class imbalance techniques like SMOTE
+imbalanced-learn
