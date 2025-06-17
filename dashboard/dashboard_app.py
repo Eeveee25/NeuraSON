@@ -3,8 +3,8 @@ import pandas as pd
 import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
-from utils.son_module import recommend_actions
-from utils.son_rl_agent import SimpleRLSimulator
+from son_module import recommend_actions
+from son_rl_agent import SimpleRLSimulator
 import io
 import folium
 from streamlit_folium import folium_static
