@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+joblib
+scikit-learn
+# Optional: For advanced class imbalance techniques like SMOTE
+imbalanced-learn
